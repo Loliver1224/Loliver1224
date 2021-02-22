@@ -1,4 +1,4 @@
-夢はプリキュアエンジニア
+夢はキュアエンジニア
 
 ## :cherry_blossom: GitHub Stats
 [![Loliver1224's github stats](https://raw.githubusercontent.com/Loliver1224/github-stats/master/generated/overview.svg)](https://github.com/Loliver1224/github-stats)
